@@ -44,7 +44,7 @@ https://www.rust-lang.org/tools/install
 Repository klonen:
 
 ```bash
-git clone https://github.com/DEINNAME/rust-sinus-konsole.git
+git clone https://github.com/GabrielVarao/rust-sinus-konsole.git
 ```
 
 In den Ordner wechseln:
